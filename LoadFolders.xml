@@ -21,4 +21,12 @@
     <li>1.5</li>
     <li IfModActive="syrchalis.traitvalue">Patches_Trait_Value_Framework</li>
   </v1.5>
+  <v1.6>
+    <li>1.6</li>
+    <li IfModActive="syrchalis.traitvalue">Patches_Trait_Value_Framework</li>
+  </v1.6>
+  <v1.7>
+    <li>1.7</li>
+    <li IfModActive="syrchalis.traitvalue">Patches_Trait_Value_Framework</li>
+  </v1.7>
 </loadFolders>
