@@ -12,6 +12,7 @@
 		<li>1.4</li>
 		<li>1.5</li>
 		<li>1.6</li>
+		<li>1.7</li>
 	</supportedVersions>
 	<modDependencies>
 		<li>
@@ -30,7 +31,7 @@
 		<li>Ludeon.RimWorld.Odyssey</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v2.3[/h1]
+[h1]Mod Version: v2.4[/h1]
 
 
 [h1]Get [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colors[/url] to change your Vanilla Trait Colors to match this mod![/h1]
@@ -89,9 +90,9 @@ Balance feedbacks are appreciated, please do however bear in mind that this mod 
 
 
 [h1]Latest Changes:[/h1]
-[b]v2.3[/b]
+[b]v2.4[/b]
 [list]
-[*][Update] RimWorld 1.6 Ready.
+[*][Update] RimWorld 1.7 Ready.
 [/list]
 	</description>
 </ModMetaData>
